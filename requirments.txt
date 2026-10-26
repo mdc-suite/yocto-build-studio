@@ -1,0 +1,2 @@
+# Python dependencies for Yocto Build Studio
+customtkinter>=5.2.2,<6
